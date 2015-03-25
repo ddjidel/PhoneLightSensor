@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{390202ed-705e-4625-867f-3576f085be67}" Title="Light Sensor Failure" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Phone_Light_Sensor author" Description="Sample description" SDOptOut="false" BackUpOptOut="false" Publisher="Phone_Light_Sensor" PublisherID="{764b0b6d-a19e-4ee3-b61c-7e39137ebf56}">
+  <App xmlns="" ProductID="{390202ed-705e-4625-867f-3576f085be67}" Title="Light Sensor Failure" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Phone_Light_Sensor author" Description="Sample description" SDOptOut="false" BackUpOptOut="false" Publisher="CN=47856382-D5B7-4E3A-80CC-9D14154604BD" PublisherID="{d7143bc0-32ca-48ac-9186-e97d24e98f22}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />

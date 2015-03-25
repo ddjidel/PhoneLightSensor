@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="41677DalilDjidel.LightSensorFailure" Publisher="CN=dalild" Version="1.0.0.0" />
+  <Identity Name="41677DalilDjidel.LightSensorFailure" Publisher="CN=47856382-D5B7-4E3A-80CC-9D14154604BD" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="390202ed-705e-4625-867f-3576f085be67" PhonePublisherId="764b0b6d-a19e-4ee3-b61c-7e39137ebf56" />
   <Properties>
     <DisplayName>Light Sensor Failure</DisplayName>
